@@ -1,0 +1,15 @@
+{
+    "yotako": {
+        "description": "A Backbone stack with HTML and CSS.",
+        "name": "yotako-backbone",
+        "version": "^1.0.0",
+        "yotako-version": "^1.0.0",
+        "author": "Sim - simon@yotako.io",
+        "license": "GPL-3.0",
+        "technologies": ["backbone", "require", "mocha", "html", "css"]
+    },
+    "stack": {
+        "html": {},
+        "flex": {}
+    }
+}

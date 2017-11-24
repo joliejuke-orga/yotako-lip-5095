@@ -1,0 +1,15 @@
+{
+  "name": "yotako-stack-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "sim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
